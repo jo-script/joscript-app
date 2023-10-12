@@ -1,5 +1,5 @@
 
-<h1>What is Joscript</h1>
+<h1>What is Joscript App</h1>
 
 <ul>
 <li>
