@@ -8,7 +8,7 @@ function App() {let load = window.onload = () => {
         jo('div', {class:'app ', id:'app' ,children:[
 
         jo('h1', {text:'Welcome to joscript', id:'x'},{height:'100px', color:'#383D45'}),
-            jo('img', {src:'/src/App/joScript-logo.svg'})
+            jo('img', {src:'src/App/joscript-logo.svg'})
 
         ]})
     )
